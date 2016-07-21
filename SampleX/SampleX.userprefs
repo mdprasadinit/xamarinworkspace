@@ -1,0 +1,10 @@
+﻿<Properties StartupItem="SampleX.iOS/SampleX.iOS.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.SampleX.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.72B2B872-03C3-4908-8478-EC6908EE8839" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleX.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 5 (L)" />
+</Properties>
