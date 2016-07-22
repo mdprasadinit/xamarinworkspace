@@ -18,7 +18,7 @@ namespace SampleX.Core.ViewModels
 		{
 			get
 			{
-				return new MvxCommand(() => ShowViewModel<SecondViewModel>());
+				return new MvxCommand(() => ShowViewModel<SecondViewModel>())
 			}
 		}
     }
