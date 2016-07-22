@@ -33,7 +33,7 @@ namespace SampleX.iOS
 
 			Window.MakeKeyAndVisible();
 
-			return true;
+			return true
 		}
 	}
 }
